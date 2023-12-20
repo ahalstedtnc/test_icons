@@ -1,0 +1,136 @@
+{
+    "apps":[
+      {
+        "url": "/resilientland/",
+        "name": "Resilient Land Mapping Tool",
+        "thumb": "rlmt.png",
+        "logo": "crcs_logo.png",
+        "logoAlt":"Center for Resilient Conservation Science Logo",
+        "desc": "This tool allows for exploration and analysis of terrestrial resilience data and the RCN.",
+        "contact": "crcs@tnc.org",
+        "updated": "May, 2023",
+        "alt": "Image of mapping tool Resilient Land Mapping Tool"
+      },
+      {
+        "url": "/marinemap/",
+        "name": "Marine Mapping Tool",
+        "thumb": "marinemap.png",
+        "logo": "crcs_logo.png",
+        "logoAlt":"Center for Resilient Conservation Science Logo",
+        "desc": "Marine Mapping Tool for the Atlantic coast of the Northeast and Southeast U.S.",
+        "contact": "crcs@tnc.org",
+        "updated": "Aug, 2023",
+        "alt": "Image of mapping tool Marine Mapping Tool"
+      },
+      {
+        "url": "/rar/",
+        "name": "Reconnecting Appalachian Rivers",
+        "thumb": "rar.png",
+        "logo": "crcs_logo.png",
+        "logoAlt":"Center for Resilient Conservation Science Logo",
+        "desc": "This is a screening tool to identify HUC-12 watersheds where restoration of freshwater connectivity might benefit both nature and people.",
+        "contact": "crcs@tnc.org",
+        "updated": "Sep, 2023",
+        "alt": "Image of mapping tool Reconnecting Appalachian Rivers"
+      },
+      {
+        "url": "/chesfpp/",
+        "name": "Chesapeake Fish Passage Prioritiation",
+        "thumb": "chesfpp.png",
+        "logo": "crcs_logo.png",
+        "logoAlt":"Center for Resilient Conservation Science Logo",
+        "desc": "This tool evaluates and prioritizes dams and other in-stream barriers to aquatic organism passage to help inform aquatic connectivity restoration projects in the Chesapeake Bay watershed.",
+        "contact": "crcs@tnc.org",
+        "updated": "Sep, 2023",
+        "alt": "Image of mapping tool Chesapeake Fish Passage Prioritiation"
+      },
+      {
+        "url": "/nehabitatmap/",
+        "name": "Northeast Habitat Map",
+        "thumb": "nehabitatmap.png",
+        "logo": "crcs_logo.png",
+        "logoAlt":"Center for Resilient Conservation Science Logo",
+        "contact": "crcs@tnc.org",
+        "desc": "The dataset maps the type and distribution of 140 types of natural systems.",
+        "alt": "Image of mapping tool Northeast Habitat Map"
+      },
+      {
+        "url": "/rca/",
+        "name": "Metro Denver Regional Conservation Assessment",
+        "thumb": "rca.png",
+        "desc": "The RCA identifies high-priority places in the seven-county metro Denver region to protect, connect, restore, and enhance for people and nature.",
+        "alt": "Image of mapping tool Metro Denver Regional Conservation Assessment"
+      },
+      {
+        "url": "/maine/",
+        "name": "TNC Maine Mapping Portal",
+        "thumb": "maine.png",
+        "desc": "Web mapping applications for The Nature Conservancy in Maine.",
+        "alt": "Image of mapping tool TNC Maine Mapping Portal"
+      },
+
+      {
+        "url": "/dangermond-historical-imagery/",
+        "name": "Dangermond Preserve - Historical Imagery",
+        "thumb": "dangermond-historical-imagery.png",
+        "desc": "Display various historical imagery in and around the Jack and Laura Dangermond Preserve.",
+        "alt": "Image of mapping tool Dangermond Preserve - Historical Imagery"
+      },
+      {
+        "url": "/landfire/",
+        "name": "Landfire",
+        "thumb": "landfire.png",
+        "desc": "The LANDFIRE Web–Hosted Applications Map WHAM! is an online, interactive map that calls up many of the applications, their locations, and the partners we work with.",
+        "alt": "Image of mapping tool Landfire"
+      },
+      {
+        "url": "/migrations-in-motion/",
+        "name": "Migrations in Motion",
+        "thumb": "migrations-in-motion.png",
+        "desc": "This map shows the average direction mammals, birds, and amphibians need to move to track hospitable climates as they shift across the landscape.",
+        "alt": "Image of mapping tool Migrations in Motion"
+      },
+      {
+        "url": "/AfricanGreatLakes/",
+        "name": "African Great Lakes Atlas",
+        "thumb": "AfricanGreatLakes.png",
+        "desc": "This Story Map focuses on seven of Africa’s Great Lakes: Albert, Edward, Kivu, Malawi/Nyasa/Niassa, Tanganyika, Victoria, and Turkana.",
+        "alt": "Image of mapping tool African Great Lakes Atlas"
+      },
+      {
+        "url": "/nasca-dashboard/",
+        "name": "NASCA Dashboard",
+        "thumb": "nasca-dashboard.png",
+        "desc": "",
+        "alt": "Image of mapping tool NASCA Dashboard"
+      },
+      {
+        "url": "/nasca-viewer/",
+        "name": "NASCA Viewer",
+        "thumb": "nasca-viewer.png",
+        "desc": "",
+        "alt": "Image of mapping tool NASCA Viewer"
+      },
+      {
+        "url": "/osbornephotos/",
+        "name": "Osborne Fire Lookout",
+        "thumb": "osbornephotos.png",
+        "desc": "Between 1933 and 1935, the Forest Service in Oregon and Washington undertook an ambitious project to collect high quality photos from every fire lookout in the region.",
+        "alt": "Image of mapping tool Osborne Fire Lookou"
+      },
+      {
+        "url": "/hwa_cma/",
+        "name": "High Allegheny Priority Hemlock Conservation Areas",
+        "thumb": "hwa_cma.png",
+        "desc": "This map displays the priority areas for the conservation of eastern hemlock considering the impending impacts of hemlock woolly adelgid on the High Allegheny Plateau.",
+        "alt": "Image of mapping tool High Allegheny Priority Hemlock Conservation Areas"
+      },
+      {
+        "url": "/marsh-management/",
+        "name": "Chesapeake Bay Marsh Management",
+        "thumb": "marsh-management.png",
+        "desc": "The Marsh Management Decision Tool is a guidance system that provides the user with recommended marsh management techniques.",
+        "alt": "Image of mapping tool Chesapeake Bay Marsh Management"
+      }
+    ]
+}
