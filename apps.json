@@ -2,7 +2,7 @@
     "apps":[
       {
         "url": "/resilientland/",
-        "name": "Resilient Land Mapping Tool",
+        "name": "Resilient Land Mapping",
         "thumb": "rlmt.png",
         "logo": "crcs_logo.png",
         "logoAlt":"Center for Resilient Conservation Science Logo",
